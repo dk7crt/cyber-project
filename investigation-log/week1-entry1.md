@@ -3,6 +3,12 @@
 **Name:** Adeena Fayyaz
 **Role:** System Hardening Lead 
 
+**Name:** Howard Wai
+**Role:** Governance & Risk Lead
+
+**Name:** Daniel kolasinski
+**Role:** Code Security Lead
+
 ## Task 2.1 – Initial Hypothesis
 - **Working hypothesis:** The attack was a deliberate, targeted cyber incident aimed at stealing intellectual property (the secret pastry recipe) and damaging the reputation of Bee Pies & Pasties. The most likely actor is a competitor with economic motivation, possibly aided by insider knowledge.
 - **Threat actor identified:** BarmBuzz Ltd (competitor) – working hypothesis
