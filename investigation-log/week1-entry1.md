@@ -1,11 +1,13 @@
 # Investigation Log Entry 1
 **Date:** [Date, 29 April 2026]
-**Names:** Adeena Fayyaz,
-**Role:** System Hardening Lead 
+**Name:** Adeena Fayyaz, Howard Wai
+**Roles:** System Hardening Lead 
 
-**Date:** [Date, 29 April 2026]
-**Names:** Howard Wai
-**Role:** Government and Risk Lead
+**Name:** Howard Wai
+**Roles:** Governance & Risk Lead
+
+**Name:** Daniel kolasinski
+**Roles:** Code Security Lead
 
 ## Task 2.1 – Initial Hypothesis
 - **Working hypothesis:** The attack was a deliberate, targeted cyber incident aimed at stealing intellectual property (the secret pastry recipe) and damaging the reputation of Bee Pies & Pasties. The most likely actor is a competitor with economic motivation, possibly aided by insider knowledge.
