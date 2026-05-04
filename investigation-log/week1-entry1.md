@@ -1,6 +1,6 @@
 # Investigation Log Entry 1
 **Date:** [Date, 29 April 2026]
-**Name:** Adeena Fayyaz
+**Names:** Adeena Fayyaz, Howard Wai
 **Role:** System Hardening Lead 
 
 ## Task 2.1 – Initial Hypothesis
