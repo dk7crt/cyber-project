@@ -1,7 +1,13 @@
 # Investigation Log Entry 1
 **Date:** [Date, 29 April 2026]
-**Name:** Adeena Fayyaz
-**Role:** System Hardening Lead 
+**Name:** Adeena Fayyaz, Howard Wai
+**Roles:** System Hardening Lead 
+
+**Name:** Howard Wai
+**Roles:** Governance & Risk Lead
+
+**Name:** Daniel kolasinski
+**Roles:** Code Security Lead
 
 **Name:** Howard Wai
 **Role:** Governance & Risk Lead
